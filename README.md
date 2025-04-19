@@ -1,6 +1,6 @@
 # Fraud-Detection-in-Financial-Transactions
 
-In this We work on an Financial Dataset and finds whether a transaction is Fraud or Not.
+In this We work on an Financial Dataset and predicts whether a transaction is Fraud or Not.
 
 The Dataset is available in Kaggle, You can access from here.
 https://www.kaggle.com/datasets/nandurisaimanohar/credit-card-fraud-dataset.
@@ -22,7 +22,10 @@ https://www.kaggle.com/datasets/nandurisaimanohar/credit-card-fraud-dataset.
   # Methodology
 
   We have Performed like Data cleaning , Data visualization, Exploratory Data Analysis , Train the model, Model Testing and Model Evaluation.
+  
   Choosen Model : Decision Trees.
+
+  Our Model Received 99.75% Accuracy
 
   # Conclusion
 
