@@ -33,3 +33,5 @@ https://www.kaggle.com/datasets/nandurisaimanohar/credit-card-fraud-dataset.
   We decided whether this model is better for this type of datasets and recommended other models which can work better for this.
   
 
+# I have published my work in Kaggle also, you can check my work from below link.
+https://www.kaggle.com/code/nandurisaimanohar/credit-card-fraud-detection-99-75-accuracy
